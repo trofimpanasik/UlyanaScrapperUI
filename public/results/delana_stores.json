@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Objecta von Rotz AG, Zug (CH)",
+    "phone": "+41 (4 1)7 8  02 929",
+    "email": "vonrotz@objecta.ch",
+    "website": "https://www.objecta.ch/"
+  },
+  {
+    "name": "Schreinerei Zgraggen AG, Uri (CH)",
+    "phone": "+41 (4 1)8 8  51 216",
+    "email": "kontakt@schreinerei-zgraggen.ch",
+    "website": "https://www.schreinerei-zgraggen.ch/"
+  },
+  {
+    "name": "Camenisch Arvenmöbel, Graubünden (CH)",
+    "phone": "+41  ( 81)  3 32 19 48",
+    "email": "fredy.camenisch@bluewin.ch",
+    "website": "https://arvenmoebelcamenisch.ch/"
+  },
+  {
+    "name": "Windwärts AG, Thurgau (CH)",
+    "phone": "+41  ( 52)  3 6 60 055",
+    "email": "c.herzer@windwaerts.ch",
+    "website": "http://www.windwaerts.ch/"
+  },
+  {
+    "name": "Laib Energiearbeit, St. Gallen (CH)",
+    "phone": "+41  7 9 6 64  76 81",
+    "email": "info@menschundraum.laib.ch",
+    "website": "http://menschundraum-laib.ch/"
+  },
+  {
+    "name": "Med. Massagepraxis JB GmbH, Zürich (CH)",
+    "phone": "+41  7 9 3 63  59 57",
+    "email": "info@medma-jb.ch",
+    "website": ""
+  },
+  {
+    "name": "Designstudio Gerhard Kroupa, Wien (AT)",
+    "phone": "+43 01 71 35 686",
+    "email": "office@kroupa-design.at",
+    "website": "http://www.kroupa-design.atobjecta.ch/"
+  },
+  {
+    "name": "Hannelore Krutzler Wohndesign, Oberösterreich (AT)",
+    "phone": "+43 664 90 77 346",
+    "email": "office@krutzler-wohndesign.at",
+    "website": "http://www.krutzler-wohndesign.at/"
+  },
+  {
+    "name": "Tischlerei Czipf, Salzburg (AT)",
+    "phone": "+43 650 52 30 895",
+    "email": "markus.czipf@speed.at",
+    "website": "http://www.moebelaushimmerlreich.at/"
+  },
+  {
+    "name": "Sh-Wohngesundheit GmbH, Vorarlberg (AT)",
+    "phone": "+43 664 13 16 108",
+    "email": "office@sh-wohngesundheit.com",
+    "website": "http://www.sh-wohngesundheit.com/"
+  },
+  {
+    "name": "Uitz Ralph GmbH, Burgenland (AT)",
+    "phone": "+43 3382 52 906",
+    "email": "office@ralph-uitz.at",
+    "website": "http://www.ralph-uitz.at/"
+  },
+  {
+    "name": "Fliesen Hanff Bäder GmbH & Co KG, Fürstenfeldbruck (DE)",
+    "phone": "+49 8142 477 80",
+    "email": "k.scheidecker@hanff-ambiente.de",
+    "website": "http://www.hanff-ambiente.de/"
+  },
+  {
+    "name": "Schreinerei Held, Freising (DE)",
+    "phone": "+49 8161 94 441",
+    "email": "info@held-schreinerei.de",
+    "website": "http://www.held-schreinerei.de/"
+  },
+  {
+    "name": "Der Betten-Spezialist, München (DE)",
+    "phone": "+49 89 680 987 40",
+    "email": "info@der-betten-spezialist.de",
+    "website": "http://www.der-betten-spezialist.de/"
+  },
+  {
+    "name": "Schreinerei Mittermeier, Ebersberg (DE)",
+    "phone": "+49 8094 561",
+    "email": "info@schreinerei-mittermeier.de",
+    "website": "http://www.schreinerei-mittermeier.de/"
+  },
+  {
+    "name": "Die Schreinerwerkstatt Wiener Richard, Augsburg (DE)",
+    "phone": "+49 8291 16 98 01",
+    "email": "wiener@schreinerwerkstatt.info",
+    "website": "https://www.schreinerwerkstatt.info/"
+  },
+  {
+    "name": "Schreinerei Günther Schmid, Donau-Ries (DE)",
+    "phone": "+49 8276 58 93 19",
+    "email": "info@schreinerei-gschmid.de",
+    "website": "http://www.schreinerei-gschmid.de/"
+  },
+  {
+    "name": "Tischler Hofer Eberhard, Sarntal (IT)",
+    "phone": "+39 338 764 55 61",
+    "email": "info@hofereberhard.com",
+    "website": "http://www.hofereberhard.com/"
+  }
+]
