@@ -26,7 +26,7 @@ function App() {
     useEffect(() => {
         const fetchData = async () => {
             const dataPromises = jsonFiles.map(file =>
-                fetch(`/results/${file}`)
+                fetch(`${process.env.PUBLIC_URL}/results/${file}`)
                     .then(response => response.json())
                     .then(data => ({ fileName: file, data }))
                     .catch(error => console.error(`Ошибка загрузки ${file}:`, error))
