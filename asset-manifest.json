@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/UlyanaScrapperUI/static/js/main.ff4fcfaa.js",
+    "main.js": "/UlyanaScrapperUI/static/js/main.e78a0d10.js",
     "index.html": "/UlyanaScrapperUI/index.html",
-    "main.ff4fcfaa.js.map": "/UlyanaScrapperUI/static/js/main.ff4fcfaa.js.map"
+    "main.e78a0d10.js.map": "/UlyanaScrapperUI/static/js/main.e78a0d10.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff4fcfaa.js"
+    "static/js/main.e78a0d10.js"
   ]
 }
